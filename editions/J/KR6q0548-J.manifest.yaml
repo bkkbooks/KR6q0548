@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0548_000-J.yaml, hash: 'sha256:6b45c9b58c613c21bd152cd58e0351289316b132abda93e4c295e72657a31293'}
+  - {seq: 0, filename: KR6q0548_000-J.yaml, hash: 'sha256:cb7040a5528eadb29ee43f88ea4808fd11443cded363ff06634b5607224deb2f'}
   - {seq: 1, filename: KR6q0548_001-J.yaml, hash: 'sha256:93bd6b4b15265cb194e55dd7d24183721b96cac7284e982815b76e295d56340a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0548_000-J.markers.yaml, hash: 'sha256:1ffb9f8589907a62d25f57b099af6dbeddf5fd0cb54196637a08382cfc2de67d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0548_000-J.markers.yaml, hash: 'sha256:0734ed4c606c1cbad036b789e9b2a7cd2f16f62985957d20cb84069ae177634b'}
   - {seq: 1, role: markers, filename: assets/KR6q0548_001-J.markers.yaml, hash: 'sha256:4797f88274312934fea2f07d614f5735ca28103f16afb18d2ab43499c9e1778a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0548_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0548_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 德玉敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0548_J_000-mulu-3
     span:
-    - front
+    - body
     - 236
     - 236
   label: 徹生序
@@ -795,4 +795,4 @@ table_of_contents:
   label: 為雲封火
   type: mulu
   level: 1
-hash: sha256:dbfb662dd4ebe08e934698d670f057a2a3d55a48bcb1607aff6182d26fa026c1
+hash: sha256:01978e82082a430a61b29ee9f19cd375ec594292628ed4d148efbf969f226f4e
